@@ -20,11 +20,3 @@ def age_group(x):
         return "old senior"
 
 
-# Define client tenure
-
-def client_tenure(x):
-    if x < 11:
-        return "short term user"
-    else:
-        return "long term user"
-
