@@ -1,24 +1,21 @@
-
 # Define Age Group 
 def age_group(x):
-    if x < 13:
-        return "child"
-    elif x < 21:
-        return "teen"
-    elif x < 65:
-        return "adult"
-    else:
+    if x < 24:
+        return "teens"
+    elif x < 34:
+        return "young adults"
+    elif x < 44:
+        return "adults"
+    elif x < 54:
+        return "older adults"
+    elif x < 64:
+        return "old adults"
+    elif x < 74:
+        return "young senior"
+    elif x < 84:
         return "senior"
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    else:
+        return "old senior
     
     
     
