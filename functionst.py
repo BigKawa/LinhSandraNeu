@@ -15,7 +15,7 @@ def age_group(x):
     elif x < 84:
         return "senior"
     else:
-        return "old senior
+        return "old senior"
     
     
     
