@@ -1,23 +1,12 @@
+Nächsten Schritte
 
+Hypothesis Testing
+zwischen 
 
-df.clients und df.concant haben wir mit df.Roster Verbunden 
-aber nicht gedropped
+1. Error Rates und Variation
+2. completion and Variation und age
 
-
-"finished" column wurde hinzugefügt
-
-
-Noch Dabei : Rates zu machen 
-
-Zeitdifferenz hinzugefügt
-
-
-
-Siehe letzten 
-Also nach Visits Groupen und dann im Concant markieren ob der Visit zu einem Confirm geführt hat
-danach nach Visist zählen und dann markieren und Hypthosis Möglich machen 
-
-
+KPIS Ordentlich erfassen
 
 
 
